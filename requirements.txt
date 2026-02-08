@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+python-jose
+pydantic
+langchain
+chromadb
+openai
+tiktoken
+redis
+celery
+loguru
